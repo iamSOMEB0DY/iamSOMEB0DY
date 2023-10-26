@@ -1,9 +1,11 @@
+[![](https://discord.c99.nl/widget/theme-1/868510606754472007.png)](https://discord.gg/UCEg533pun)
+
 <h1 align="center">Hi 👋, I'm A M I R A L I !</h1>
 <h3 align="center">A New developer from Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsomeb0dy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsomeb0dy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsomeb0dy" alt="iamsomeb0dy" /></a> </p>
+
 
 - 🌱 I’m currently learning **Python**
 
@@ -20,4 +22,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsomeb0dy&show_icons=true&locale=en" alt="iamsomeb0dy" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsomeb0dy&" alt="iamsomeb0dy" /></p>
+
+<h3 align="left">Support:</h3>
+<a href="https://coffeebede.com/nervteam"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
