@@ -1,13 +1,9 @@
 [![](https://discord.c99.nl/widget/theme-4/868510606754472007.png)](https://discord.gg/UCEg533pun)
 
-<h1 align="center">Hi 👋, I'm A M I R A L I !</h1>
-<h3 align="center">A New developer from Iran</h3>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=&pause=890&color=C7FFCA&random=false&width=435&lines=%F0%9F%91%8B%F0%9F%8F%BC+Hello+iam+A+m+i+r+a+l+i+!;%F0%9F%98%8E+Welcome+To+My+Github+Profile;%F0%9F%8C%B1+In+Love+With+Codding;++Currently+Lerning+Python;Experiencenced+Discord+Developer;%F0%9F%A4%9D+You+Can+Talk+to+Me+By+Connect.To.Me+Tab+!" alt="Typing SVG" /></a>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsomeb0dy&label=Profile%20views&color=0e75b6&style=flat" alt="iamsomeb0dy" /> </p>
-
-
-
-- 🌱 I’m currently learning **Python**
+  
+- ✨ More About **Me**
 
 <h3 align="left">- Connect with me:</h3>
 <p align="left">
