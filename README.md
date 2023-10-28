@@ -21,4 +21,5 @@
 
 
 <h3 align="left">- Support:</h3>
-<a href="https://www.coffeebede.com/nervteam" ><img width="220px" height="70px" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
+<h3 align="left">- Soon</h3>
